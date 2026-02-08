@@ -1,0 +1,1 @@
+export { default as TodoText } from "@/shared/ui/todo-text/TodoText";

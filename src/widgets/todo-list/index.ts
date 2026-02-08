@@ -1,0 +1,1 @@
+export { default as TodoList } from "@/widgets/todo-list/TodoList";
